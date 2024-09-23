@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>America's Founding Documents: Signers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Learn about the Declaration of Independence of the United States.">
+<meta name="author" content="Makenna Tetrick">
+<meta charset="UTF-8">
+</head>
+<body>
+ <!-- This is the start of the header section. -->
+<header>
+<h1>America's Founding Documents</h1>
+<p>Know your country's history.</p>
+</header>
+
+<!-- This is the start of the navigation section. -->
+<nav>
+<ul>
+<li><a href="index.html">Declaration of Independence</a</li>
+<li><a href="signers.html"> Who were the Signers</a></li>
+
+</ul>
+</nav>
+
+<!-- This is the start of the main section. -->
+<main>
+    <h1>Who Were the Signers</h1>
+    <h2>Georgia</h2>
+    <ol>
+        <li>Button Gwinnett</li>
+        <li>Lyman Hall</li>
+        <li>Geirge Walton</li>
+    </ol>
+
+    <h2>Massachusetts</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/John_Hancock" target="_blank">John Hancock</a></li>
+    </ol>
+
+<h2>Souther Signers</h2>
+<dl>
+    <dt>Who Signed from North Carolina?</dt>
+    <dd>William, Hooper, Joseph, Hewes, John Penn</dd>
+    <dt>Who Signed from South Carolina?</dt>
+    <dd>Edward Rutledge, Thomas Heyward, Thomas Lynch, Arthur Middleton</dd>
+
+</dl>
+
+</main>
+
+
+<!-- This is the start of the footer section. -->
+<footer>
+<p>&copy; 2024 &bull; Makenna Tetrick &bull; <a href="mailto:makennatetrick05@gmail.com">Email Us</a></p>
+</footer>
+
+</body>
+
+</html>
